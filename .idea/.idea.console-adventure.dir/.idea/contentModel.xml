@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Xeliu\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Xeliu\WebstormProjects\console-adventure" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Class Diagram with UML Notation.pdf" t="Include" />
+      <e p="console-adventure.csproj" t="IncludeRecursive" />
+      <e p="Game.md" t="Include" />
+      <e p="map.png" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.0" t="Include">
+            <e p="console-adventure.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Project" t="Include">
+        <e p="Controllers" t="Include">
+          <e p="GameController.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="IGame.cs" t="Include" />
+          <e p="IGameController.cs" t="Include" />
+          <e p="IGameService.cs" t="Include" />
+          <e p="IItem.cs" t="Include" />
+          <e p="IPlayer.cs" t="Include" />
+          <e p="IRoom.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Enemy.cs" t="Include" />
+          <e p="Game.cs" t="Include" />
+          <e p="Item.cs" t="Include" />
+          <e p="Key.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="Room.cs" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="GameService.cs" t="Include" />
+        </e>
+      </e>
+      <e p="readme.md" t="Include" />
+      <e p="SuggestedBuild.md" t="Include" />
+    </e>
+  </component>
+</project>
